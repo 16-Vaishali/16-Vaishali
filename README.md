@@ -1,7 +1,7 @@
 ![MasterHead](https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg)
 <h1 align="center">Hi 👋, I'm Vaishali</h1>
 <h3 align="center">An enthusiastic FullStack developer</h3>
-<img align="right" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently pursuing **B Tech IT**
 
