@@ -4,6 +4,8 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Fullstack Developer
 -------------------
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-b-032740237)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.vaishhxx._/)
 I'm a passionate in designing and building scalable web applications. I thrive in dynamic environments and enjoy working on both the frontend and backend to create seamless user experiences.
 
 *   🌍  I'm based in Coimbatore
