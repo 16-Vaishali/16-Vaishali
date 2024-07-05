@@ -1,15 +1,22 @@
 Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Its Vaishali here!
 ================================================================================================================================
 
-Fullstack Developer
+A Passionate Fullstack Developer
 -------------------
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIG3.SVNCpGBYbAvhu9vAPziw?pid=ImgGn" height="450px" width="450px"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-b-032740237)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.vaishhxx._/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishali-b-032740237" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_.vaishhxx._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 I'm a passionate in designing and building scalable web applications. I thrive in dynamic environments and enjoy working on both the frontend and backend to create seamless user experiences.
 
 *   🌍  I'm based in Coimbatore
-*   🖥️  See my portfolio at [Portfolio](http://tobeadded)
+*   🖥️  See my portfolio at [Portfolio](https://portfolio-psi-seven-67.vercel.app/)
 *   ✉️  You can contact me at [vaishalib.2003@gmail.com](mailto:vaishalib.2003@gmail.com)
 *   🧠  I'm learning NextJs and Stripe
 *   🤝  I'm open to collaborating on Interesting projects
